@@ -13,7 +13,7 @@ email: hueteunai@gmail.com
 phone: 0034688692733
 # phone_title: Phone (Phone title override)
 website: https://aka.ms/SREBook-AmazonUS
-website_title: The Art of Site Reliability Engineering (SRE) with Azure
+website_title: The Art of SRE with Azure
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -50,15 +50,24 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile-picture.png # Directory of profile image (eg. images/prof.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hi, my name is Unai and I´m a Azure Cloud & DevOps expert. Passionate for technology, I have been working mainly on these different areas during the last years:  Cloud Computing/DevOps/SRE.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  From February 2017 to July 2020 I have been working  as a PFE (Premier Field Engineer) giving Support & Education to Microsoft´s customers all around EMEA mainly around the following technologies: DevOps (GitHub/Azure DevOps), SRE, Azure Cloud and SCRUM/Agile. 
+
+  Since July 2020, I am working as an Azure Technical trainer on the technologies mentioned above, leading content for "AZ-400: Designing and Implementing Microsoft DevOps Solutions" . Love to learn new things and demo it to customers :) 
+
+  In 2022,  I published my first book "The Art of Site Reliability Engineering (SRE) with Azure".
+  ![The Art of Site Reliability Engineering (SRE) with Azure](/images/srebook.jpg)
+
+  On my free time a love travelling, video editing, water sports and mountain related activities.
+
+# You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+#   - Lists
+#   - Tables
+#   - <a href="google.com">Links</a>
+#   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
