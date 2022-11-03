@@ -59,16 +59,14 @@ about_content: | # this will include new lines to allow paragraphs
   Since July 2020, I am working as an Azure Technical trainer on the technologies mentioned above, leading content for "AZ-400: Designing and Implementing Microsoft DevOps Solutions" . Love to learn new things and demo it to customers :) 
 
   In 2022, I published my first book "The Art of Site Reliability Engineering (SRE) with Azure".
-   
-  ![The Art of Site Reliability Engineering (SRE) with Azure](/images/srebook.jpg "SRE Azure")
 
-  On my free time a love travelling, video editing, water sports and mountain related activities.
+  ![The Art of Site Reliability Engineering (SRE) with Azure](images/srebook.jpg "SRE Azure")
 
-# You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-#   - Lists
-#   - Tables
-#   - <a href="google.com">Links</a>
-#   - Images ![alt text](/images/landscape-trees.jpg "Trees")
+You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+  - Lists
+  - Tables
+  - <a href="google.com">Links</a>
+  - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   # - title: Projects # Title for the section
@@ -117,9 +115,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      On my free time a love travelling, video editing, water sports and mountain related activities.
 
 # Footer
 footer_show_references: true
