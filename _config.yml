@@ -51,6 +51,7 @@ additional_links:
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile-picture.png # Directory of profile image (eg. images/prof.jpg)
+about_profile_image2: images/srebook.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Unai and I´m a Azure Cloud & DevOps expert. Passionate for technology, I have been working mainly on these different areas during the last years:  Cloud Computing/DevOps/SRE.
 
