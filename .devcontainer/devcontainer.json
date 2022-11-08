@@ -3,7 +3,6 @@
 	"image": "mcr.microsoft.com/devcontainers/ruby:2",
 	"features": {
 		"ghcr.io/devcontainers/features/node:1": {},
-		"ghcr.io/devcontainers/features/ruby:1": {},
 		"ghcr.io/devcontainers/features/docker-from-docker:1": {}
 	},
 	
