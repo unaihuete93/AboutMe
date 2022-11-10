@@ -1,7 +1,7 @@
 {% for item in include.content %}
   <div class="row clearfix layout layout-{{item.layout | default: 'left'}} border-{{item.border | default: 'no'}}">
 
-    <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details ">
+    <div class="col-xs-12 col-sm-{{item.width | default: '4'}} col-md-3 col-print-12 details ">
       <!-- <img class="button button--sacnite2" src="images/microsoft.png"></img> -->
       {%- if item.title == "Microsoft" -%}
       <p class="no-print">

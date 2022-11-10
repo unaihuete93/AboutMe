@@ -127,7 +127,7 @@ content:
         title: University of Navarra (UNAV)
         sub_title: Master´s in Telecommunication Engineering (MIT)
         caption:  2016 - 2018 #Date Range (eg. 2016 - 2018)
-        # quote: >
+        width: 12
         #   Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           <img src="images/unav.jpg" width="200"/>
@@ -135,6 +135,7 @@ content:
       - layout: left
         title: University of Navarra (UNAV)
         sub_title: BA Electronic of Communications Engineering
+        width: 12
         caption:  2011 - 2015 #Date Range (eg. 2016 - 2018)
         # quote: >
         #   Short institution or course description (optional)
@@ -145,6 +146,7 @@ content:
         title: California Polytechnic State University
         sub_title: Exchange Program - EE Electrical Engineering
         caption:  Sept 2014 - Dec 2014  #Date Range (eg. 2016 - 2018)
+        width: 12
         # quote: >
         #   Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
@@ -155,7 +157,14 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      On my free time a love travelling, video editing, water sports and mountain related activities.
+      On my free time a love travelling,  water sports (surfing, Spearfishing and Swimming) and mountain related activities (MTB and Snowboarding).
+
+      <img src="images/travel.png" width="150"/>
+      <img src="images/surf.png" width="150"/>
+      <img src="images/scuba.png" width="150"/>
+      <img src="images/mtb.png" width="150"/>
+
+
 
 # Footer
 footer_show_references: true
