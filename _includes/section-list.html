@@ -3,11 +3,13 @@
 
     <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details ">
       <!-- <img class="button button--sacnite2" src="images/microsoft.png"></img> -->
+      {%- if item.title == "Microsoft" -%}
       <p class="no-print">
         <a href="https://www.microsoft.com/" target="_blank">
           <i class="fa fa-windows" title="{{ include.item.name }} Microsoft link"></i>
         </a>
       </p>
+      {%- endif -%}
       <h4 id="{{ item.title | slugify }}">{{ item.title }}</h4>
       {%- if item.sub_title -%}<p><b>{{ item.sub_title }}</b></p>{%- endif -%}
       {%- if item.caption -%}<p>{{ item.caption }}</p>{%- endif -%}

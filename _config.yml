@@ -54,6 +54,7 @@ about_profile_image: images/profile-picture.png # Directory of profile image (eg
 about_profile_image2: images/srebook.jpg
 about_content: | # this will include new lines to allow paragraphs
 
+
   Hi, my name is Unai and I´m a Azure Cloud & DevOps expert. Passionate for technology, I have been working mainly on these different areas during the last years:  Cloud Computing/DevOps/SRE.
 
   From February 2017 to July 2020 I have been working  as a PFE (Premier Field Engineer) giving Support & Education to Microsoft´s customers all around EMEA mainly around the following technologies: DevOps (GitHub/Azure DevOps), SRE, Azure Cloud and SCRUM/Agile. 
@@ -62,7 +63,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   In 2022, I published my first book "The Art of Site Reliability Engineering (SRE) with Azure".
 
-  ![The Art of Site Reliability Engineering (SRE) with Azure](images/srebook.jpg "SRE Azure")
+  <img src="images/srebook.jpg" width="250"/>
 
 content:
   # - title: Projects # Title for the section
@@ -88,7 +89,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Microsoft
         sub_title: Microsoft Technical Trainer
         caption: June 2020 - Present # Date Range (eg. November 2016 - present)
@@ -102,31 +103,55 @@ content:
           - Defining the structure and content of the course.
           - Helping define exam objetives, gathering feedback from internal community and external SMEs.
         
-      - layout: right
+      - layout: left
         title: Microsoft
-        sub_title: Microsoft Technical Trainer
-        caption: June 2020 - Present # Date Range (eg. November 2016 - present)
+        sub_title: Premier Field Enginer - Customer Engineer
+        caption: Feb 2017 - June 2020 # Date Range (eg. November 2016 - present)
         # link: Link to company (optional)
         # quote: >
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          As a Microsoft Technical Trainer (MTT) I prepared thousands of customers to get ready for Microsoft official Certification exams. Based on my expertise,
-          mainly focus on DevOps, AI and Cloud Architecture related courses/exams (like AZ400,AZ204,AZ305 and AI102). Since early 2021, I also work as the MTT Courseware Lead for the "AZ-400: Designing and Implementing Microsoft DevOps Solutions" exam:
-          - Working closely with Content Team to notify, fix and release issues/updates.
-          - Defining the structure and content of the course.
-          - Helping define exam objetives, gathering feedback from internal community and external SMEs.
+          As a Customer Enginner, I worked as an expert for Azure DevOps product and DevOps practises. I helped customers around EMEA adopt DevOps practises leveraging Microsoft tools and services. My responsabilities as a Customer Engineer, where to give support and education on the following technologies/practises:
+          - Support customers using Azure DevOps : fixing their issues, updating on-premise ADO server solutions, helping them setup CI/CD pipelines,...
+          - Workshops about  DevOps fundamentals using ADO and GitHub
+              - Agile/Scrum planning using Azure Boards, CI/CD pipeline basics, Package Management, Testing (Unit, integration, UI, Performance, Load,...) and monitoring (using Azure Monitor + Application Insights)
+          - Acting as the technical Scrum Master for some companies.
+          - Helping customers adopt DevOps practises using Microsoft tools/services (ADO and GitHub mainly)
+          - Teach Azure Development basics, services like: Azure WebApps, ACI, AKS, CosmosDB, APIM, ACA, etc.
+          - Delivering sessions in conferences.
     
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
+      - layout: left
+        title: University of Navarra (UNAV)
+        sub_title: Master´s in Telecommunication Engineering (MIT)
+        caption:  2016 - 2018 #Date Range (eg. 2016 - 2018)
+        # quote: >
+        #   Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          <img src="images/unav.jpg" width="200"/>
+
+      - layout: left
+        title: University of Navarra (UNAV)
+        sub_title: BA Electronic of Communications Engineering
+        caption:  2011 - 2015 #Date Range (eg. 2016 - 2018)
+        # quote: >
+        #   Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          <img src="images/unav.jpg" width="200"/>
+
+      - layout: left
+        title: California Polytechnic State University
+        sub_title: Exchange Program - EE Electrical Engineering
+        caption:  Sept 2014 - Dec 2014  #Date Range (eg. 2016 - 2018)
+        # quote: >
+        #   Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          <img src="images/calpoly.png" width="150"/>
+
+
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
