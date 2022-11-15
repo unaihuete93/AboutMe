@@ -55,11 +55,11 @@ about_profile_image2: images/srebook.jpg
 about_content: | # this will include new lines to allow paragraphs
 
 
-  Hi, my name is Unai and I´m a Azure Cloud & DevOps expert. Passionate for technology, I have been working mainly on these different areas during the last years:  Cloud Computing/DevOps/SRE.
+  Hi, my name is Unai and I´m an Azure Cloud & DevOps expert. Passionate for technology, I have been working mainly on these different areas during the last years:  Cloud Computing/DevOps/SRE.
 
   From February 2017 to July 2020 I have been working  as a PFE (Premier Field Engineer) giving Support & Education to Microsoft´s customers all around EMEA mainly around the following technologies: DevOps (GitHub/Azure DevOps), SRE, Azure Cloud and SCRUM/Agile. 
 
-  Since July 2020, I am working as an Azure Technical trainer on the technologies mentioned above, leading content for "AZ-400: Designing and Implementing Microsoft DevOps Solutions" . Love to learn new things and demo it to customers :) 
+  Since July 2020, I am working as Microsoft Technical Trainer on the technologies mentioned above, leading content for "AZ-400: Designing and Implementing Microsoft DevOps Solutions" . Love to learn new things and demo it to customers.
 
   In 2022, I published my first book "The Art of Site Reliability Engineering (SRE) with Azure".
 
@@ -92,13 +92,18 @@ content:
       - layout: left
         title: Microsoft
         sub_title: Microsoft Technical Trainer
+        border: weak
         caption: June 2020 - Present # Date Range (eg. November 2016 - present)
         # link: Link to company (optional)
         # quote: >
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          As a Microsoft Technical Trainer (MTT) I prepared thousands of customers to get ready for Microsoft official Certification exams. Based on my expertise,
-          mainly focus on DevOps, AI and Cloud Architecture related courses/exams (like AZ400,AZ204,AZ305 and AI102). Since early 2021, I also work as the MTT Courseware Lead for the "AZ-400: Designing and Implementing Microsoft DevOps Solutions" exam:
+          As a Microsoft Technical Trainer (MTT) I prepared thousands of customers getting ready for Microsoft official Certification exams. Based on my expertise,
+          I mainly focus on DevOps, AI and Cloud Architecture related courses/exams (like AZ400,AZ204,AZ305 and AI102). During last years I participated on couple remote conferences and live stream/recorded sessions, for example:
+
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/3Brg_l0vHBo?start=260" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          
+          Since early 2021, I also work as the MTT Courseware Lead for the "AZ-400: Designing and Implementing Microsoft DevOps Solutions" exam:
           - Working closely with Content Team to notify, fix and release issues/updates.
           - Defining the structure and content of the course.
           - Helping define exam objetives, gathering feedback from internal community and external SMEs.
@@ -163,6 +168,8 @@ content:
       <img src="images/surf.png" width="150"/>
       <img src="images/scuba.png" width="150"/>
       <img src="images/mtb.png" width="150"/>
+
+
 
 
 
